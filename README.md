@@ -1,6 +1,6 @@
 # Auto Completion Text Engine with NLP
 <br>
-<div style="width:image width px; font-size:100%; text-align:center;"><img src='autovomplete.JPG' alt="autocomplete-img" width="width" height="height" style="width:300px;height:250px;" /></div>
+<div style="width:image width px; font-size:100%; text-align:center;"><img src='autocomplete.JPG' alt="autocomplete-img" width="width" height="height" style="width:300px;height:250px;" /></div>
 <br><br>
 Auto-complete system is something we may see every day, for example:<ul>
     <li>When we google something, we often have suggestions to help us complete our search
